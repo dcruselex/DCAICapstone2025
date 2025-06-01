@@ -1,0 +1,7 @@
+transaction_id,date,customer_id,amount,type,description
+1,2020-10-26,926,6478.39,credit,Valid credit
+2,2020-13-40,123,200.00,debit,Invalid date
+3,2021-05-10,104,abc123,debit,Bad amount
+4,2022-03-05,876,120.00,transfer,Valid transfer
+5,2023-01-15,543,50.00,invalid_type,Wrong type
+6,2022-08-22,778,90.00,debit,Valid debit
