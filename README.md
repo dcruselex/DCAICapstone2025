@@ -10,6 +10,9 @@ Features
 - Save updated transactions back to CSV
 - Generate timestamped text-based financial reports
 
+User Notes
+- Used scrollable elements to view some items that would take too much room to display or does not display after running
+
 File Structure
 - DCCaptstoneProjectFile.ipynb
 - financial_transactions.csv
